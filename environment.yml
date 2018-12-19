@@ -4,4 +4,4 @@ dependencies:
   - appmode
   - numpy
   - matplotlib
-- pandas
+  - pandas
