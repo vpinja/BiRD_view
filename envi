@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - numpy
+  - matplotlib
+- pandas
